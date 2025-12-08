@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing wall_follower_sim.egg-info/PKG-INFO
+writing dependency_links to wall_follower_sim.egg-info/dependency_links.txt
+writing entry points to wall_follower_sim.egg-info/entry_points.txt
+writing requirements to wall_follower_sim.egg-info/requires.txt
+writing top-level names to wall_follower_sim.egg-info/top_level.txt
+reading manifest file 'wall_follower_sim.egg-info/SOURCES.txt'
+writing manifest file 'wall_follower_sim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jekiijekk/ros2_ws/install/wall_follower_sim/lib/python3.10/site-packages/wall-follower-sim.egg-link (link to .)
+Installing wall_follower script to /home/jekiijekk/ros2_ws/install/wall_follower_sim/lib/wall_follower_sim
+
+Installed /home/jekiijekk/ros2_ws/build/wall_follower_sim
+running symlink_data
+symbolically linking /home/jekiijekk/ros2_ws/build/wall_follower_sim/worlds/maze.world -> /home/jekiijekk/ros2_ws/install/wall_follower_sim/share/wall_follower_sim/worlds
