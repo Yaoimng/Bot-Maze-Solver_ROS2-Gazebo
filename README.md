@@ -47,10 +47,10 @@ Proyek ini berhasil mendemonstrasikan navigasi robot otonom menggunakan pendekat
 *   **Keterbatasan:** Karena hanya mengandalkan sensor lokal, robot mungkin kesulitan di jalan buntu yang kompleks.
 
 ### 👥 Kontributor
-*Fadhil Zaky Budianto 5054231001*
-*Dhafin Kurniawan 5054231016*
-*Jeremia Kevin Alexander Jagardo Malau 5054231027*
-*Alif As'ad Ramadhan 5054231007*
-*Muhammad Naufal Arifin 5054231006*
-*Bayu Nismara Nagatama 5025231152*
-*Ignatius Devon Andri Putra 5025231159*
+# *Fadhil Zaky Budianto 5054231001*
+# *Dhafin Kurniawan 5054231016*
+# *Jeremia Kevin Alexander Jagardo Malau 5054231027*
+# *Alif As'ad Ramadhan 5054231007*
+# *Muhammad Naufal Arifin 5054231006*
+# *Bayu Nismara Nagatama 5025231152*
+# *Ignatius Devon Andri Putra 5025231159*
